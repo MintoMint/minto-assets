@@ -1,0 +1,31 @@
+{
+  "name": "PowerToken",
+  "symbol": "Power",
+  "description": "The power token",
+  "image": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png",
+  "external_url": "https://www.coinbase.com/de/price/power-ledger",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Type", "value": "Meme Token" },
+    { "trait_type": "Community", "value": "Power" }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "HGaVPhz4rq6ZEwTJFyfuXxMBC9rhPycQqQqmsMPZF9Er",
+        "share": 0
+      },
+      {
+        "address": "HA7PLTEhyVnJ5Qv13UgvEapdzsFfXzxMau6xjyTPqKLc",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
