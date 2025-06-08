@@ -1,19 +1,5 @@
 {
   "name": "PowerToken",
-  "symbol": "POWER",
-  "description": "PowerToken is a meme-driven, community-powered token.",
-  "uri": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/powertoken-metadata.json",
-  "image": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png",
-  "decimals": 9,
-  "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
-    "category": "image",
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png",
-        "type": "image/png"
-      }
-    ]
-  }
+  "symbol": "Power",
+  "uri": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/powertoken-metadata.json"
 }
