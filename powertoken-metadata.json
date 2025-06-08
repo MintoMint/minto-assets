@@ -4,7 +4,7 @@
   "description": "The power token",
   "image": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png",
   "decimals": 9,
-  "external_url": "https://auctionshack.io",
+  "external_url": "https://de.wikipedia.org/wiki/Dr._House",
   "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Type", "value": "Meme Token" },
