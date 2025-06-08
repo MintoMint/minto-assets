@@ -6,10 +6,7 @@
   "decimals": 9,
   "external_url": "https://de.wikipedia.org/wiki/Dr._House",
   "seller_fee_basis_points": 0,
-  "attributes": [
-    { "trait_type": "Type", "value": "Meme Token" },
-    { "trait_type": "Utility", "value": "Community" }
-  ],
+  "attributes": [],
   "properties": {
     "category": "image",
     "files": [
