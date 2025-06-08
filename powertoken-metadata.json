@@ -1,6 +1,7 @@
 {
   "name": "PowerToken",
   "symbol": "Power",
+  "uri": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/powertoken-metadata.json",
   "description": "The power token",
   "image": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png",
   "external_url": "https://www.coinbase.com/de/price/power-ledger",
