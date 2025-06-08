@@ -1,5 +1,6 @@
 {
   "name": "PowerToken",
   "symbol": "Power",
-  "image": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png"
+  "image": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/PowerToken.png",
+  "uri": "https://raw.githubusercontent.com/MintoMint/minto-assets/main/powertoken-metadata.json"
 }
